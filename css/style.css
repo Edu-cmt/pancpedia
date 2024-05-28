@@ -1,7 +1,7 @@
 body{
-    background-image: url(https://img.freepik.com/psd-gratis/marco-abstracto-hojas-verdes-espacio-copia_24972-1953.jpg);
+    background-image: url(../assets/fundo-floresta.jpg);
     background-size: contain;
-    background-repeat: no-repeat;
+    background-repeat: repeat-y;
     margin: 0;
     padding: 0;
     font-family: 'Tahoma'
