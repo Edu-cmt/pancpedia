@@ -1,7 +1,7 @@
 body{
     background-image: url(../assets/fundo-floresta.jpg);
-    background-size: contain;
-    background-repeat: repeat-y;
+    background-size: cover;
+    background-repeat: no-repeat;
     margin: 0;
     padding: 0;
     font-family: 'Tahoma'
@@ -77,7 +77,7 @@ body{
     height: 100%;
     padding: 50px;
     border-radius: 20px;
-    background-color: rgba(255, 255, 255, 0.744);
+    background-color: rgba(255, 255, 255, 0.843);
     margin: 50px auto;
     box-shadow: 1px 0px 24px 1px rgba(0,0,0,0.45);
     -webkit-box-shadow: 1px 0px 24px 1px rgba(0,0,0,0.45);
